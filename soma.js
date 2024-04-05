@@ -22,5 +22,5 @@ while (k < indice) {
 }
 
 // Imprimir a soma
-alert(soma);
+alert(`A soma dos elementos (k = k + 1) e (soma = soma + k) é igual ${soma}`);
 }
