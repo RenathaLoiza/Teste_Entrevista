@@ -14,32 +14,11 @@ interrupitores| primeira Sala           |Segunda sala          |terceira Sala   
 
 De acordo com a tabela verdade e o acesso ilimitado a sala dos interrupitores podemos observar a sequencia que liga a lampada.
 */
-export function interrupitor() {
-     
+/*
+ou se nao tiver acesso ilimitado a sala dos interrupitores temos outra alternativa de resolver
 
-let interrupitor1= "sim";
-let interrupitor2= "sim";
-let interrupitor3= "sim";
-let compativellampada1 =prompt("Para a lampada ligada digite true ou desligada false");
-let compativellampada2 =prompt("Para a lampada ligada digite true ou desligada false");
-let compativellampada3 =prompt("Para a lampada ligada digite true ou desligada false");
+Ligue o primeiro interruptor e aguarde alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas e observe qual está acesa e qual está apagada e qual esta quente e assim voce saberá qual liga qual.
 
-if(interrupitor1==compativellampada1 && interrupitor2 !== compativellampada2 && interrupitor3 !== compativellampada3 ){
- alert(`interrupitor 1 ${interrupitor1} liga lampada 1 ${compativellampada1}
-        interrupitor 2 ${interrupitor2} liga lampada 2 ${compativellampada2}
-        interrupitor 3 ${interrupitor3} liga lampada 3 ${compativellampada3}`)
-}
-else if(interrupitor1 == compativellampada2 && interrupitor2 !== compativellampada3 && interrupitor3 !== compativellampada1){
-     alert(`interrupitor 1 ${interrupitor1} liga lampada 2 ${compativellampada2}
-            interrupitor 2 ${interrupitor2} liga lampada 3 ${compativellampada3}
-            interrupitor 3 ${interrupitor3} liga lampada 1 ${compativellampada1}
-     `)
-
-}
-else {
-     alert(`interrupitor 1 ${interrupitor1} liga lampada 3 ${compativellampada2}
-            interrupitor 2 ${interrupitor2} liga lampada 1 ${compativellampada3}
-            interrupitor 3 ${interrupitor3} liga lampada 2 ${compativellampada1}
-`)
-}
-}
+*/
