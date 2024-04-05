@@ -1,5 +1,6 @@
 ## Teste_Entrevista
-#Teste que consistia na seguintes perguntas 
+
+Teste que consiste nas seguintes perguntas, programa executar usando o prompt de o alert, no JavaScript e HTML.
 
 1) Observe o trecho de código abaixo:
 
